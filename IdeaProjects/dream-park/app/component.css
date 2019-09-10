@@ -1,0 +1,30 @@
+.gap {
+    margin-right: 10px;
+}
+.gapheader {
+    margin-right: 1000px;
+}
+.md-button.logo {
+    height: 7rem;
+    width: 7rem;
+}
+.logo-image {
+    height: 100%;
+    width: 100%;
+}
+table {
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    width: 50%;
+}
+/*
+td,th{
+    border: 1px solid gray;
+    width: 25%;
+    text-align: left;
+    padding: 5px 10px;
+}
+
+th {
+    background: SteelBlue;
+    color: white;
+}*/
